@@ -1,2 +1,3 @@
 # helloWorld
 testing and getting acquainted ...
+first edits of readme file
